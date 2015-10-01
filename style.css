@@ -1,8 +1,14 @@
 body {background-color: #52616B;}
 h1 {
   font-family: 'Franklin Gothic';
-  color: #FFCC00;}
+  color: #FFCC00;
+  text-align: center;}
 h2, h3 {font-family: 'Futura New'}
 p {
   color: #C9D6DF;
-  font-family: Helvetica, sans-serif}
+  font-family: Helvetica, sans-serif;}
+.image {
+  text-align: center;}
+figcaption {
+  color: #C9D6DF;
+  font-family: 'Franklin Gothic Medium'}
